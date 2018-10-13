@@ -1,0 +1,17 @@
+{
+	"pnr_no": "4448717460",
+	"train_no": "12680",
+	"train_name": "CHENNAI EXPRESS",
+	"boarding_date": "20-12-2018",
+	"class": "2S",
+	"from": "CBE",
+	"to": "TUP",
+	"reserved_upto": "TUP",
+	"boarding_point": "CBE",
+	"booking_fare": "65",
+	"charting_status": "Chart Not Prepared",
+	"ticket_status": [{
+		"booking_status": "CNF/D5/50/NC/GN",
+		"current_status": "CNF"
+	}]
+}
